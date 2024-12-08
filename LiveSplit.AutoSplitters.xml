@@ -23806,4 +23806,14 @@
         <Description>Autosplitter for Loonyland: Halloween Hill (By AutomaticFrenzy)</Description>
         <Website>https://github.com/AutomaticFrenzy/ASL-Autosplitter-projects</Website>
     </AutoSplitter>
-</AutoSplitters>
+    </AutoSplitters>
+        <Games>
+            <Game>Enigma of Fear</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/lioth35/Lioth/refs/heads/main/LoadRemove.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Load Remover by Lioth</Description>
+    </AutoSplitter>
+    <AutoSplitter>
